@@ -11,19 +11,6 @@
 ![Tatkal_Appreciation](https://github.com/user-attachments/assets/8d167d29-8b24-461e-9ff3-a8b7df5a2883)
 
 
-> [!NOTE] 
-> ```
-> This Cypress script for automating IRCTC ticket booking
-> is created strictly for educational purposes. The code and its
-> usage are intended to showcase Cypress testing capabilities and
-> best practices. Any attempt to use this script for unauthorized
-> access or activities that violate IRCTC terms of service or legal
-> regulations is strictly prohibited. The author(s) and associated
-> entities are not responsible for any misuse or legal consequences 
-> resulting from the use of this script for any unauthorized 
-> activities.
-> ```
-
 [![IRCTC Automation](https://github.com/shivamguys/irctc-cypress-automation/actions/workflows/irctc.yml/badge.svg)](https://github.com/shivamguys/irctc-cypress-automation/actions/workflows/irctc.yml)
 
 <!-- [![IRCTC Automation](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/simple/7afdkj/main&style=for-the-badge&logo=cypress)](https://cloud.cypress.io/projects/7afdkj/runs)
